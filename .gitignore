@@ -1,0 +1,9 @@
+**/Release/**
+**/Debug/**
+**/.metadata/**
+**/.ipynb_checkpoints/**
+**/__pycache__/**
+*.so.2
+*.out
+*.so
+*.raw
